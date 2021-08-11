@@ -7,6 +7,9 @@ great on all devices from mobile to desktop. It's also retina ready so your site
 crisp and sharp on any device. Kards is the ideal template for creating digital personal resume 
 and portfolio website.
 
+Forked from: https://www.styleshout.com/free-templates/kards/
+
+**LICENSE:**
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />KARDS is released under the <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a>.
 
@@ -28,7 +31,7 @@ and portfolio website.
 
 **Attribution:** 
 	
-   You must include a credit link to our website (http://www.Styleshout.com) somewhere on
+   You must include a credit link to our website (http://www.styleshout.com) somewhere on
    your site. We prefer the footer credit that comes with the template but you are still 
    free to move it somewhere else.
 
@@ -39,14 +42,7 @@ and portfolio website.
 **REMOVING THE LINK:**
 
 We understand that there are situations where you want to use the template without the 
-crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use the 
-template attribution/credit link free on ONE DOMAIN name. 
-
-You can send your payments through Paypal to this address: ealigam@gmail.com
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
+crediting obligation. If that's your case, you can follow steps mentioned on https://www.styleshout.com/attribution-free/
 
 
 ------------------------------------------------------------------------------------------------------ 
@@ -76,8 +72,7 @@ jQuery in your skill-set, you can also check out these tutorials:
 **GET THE LATEST VERSION:**
 
 We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly at our website (http://www.styleshout.com/)
-
+always download the template files directly at our website: https://www.styleshout.com/free-templates/kards/
 
 
 -------------------------------------------------------------------------------------------------------
